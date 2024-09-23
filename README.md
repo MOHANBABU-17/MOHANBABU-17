@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MOHANBABU-17
 - 👀 I’m interested in coding.
-- 🌱 I’m specialized in Information Science and Engineering
-- 💞️ I’m looking to collaborate on Front end and C language projects 
+- 🌱 I’m specialized in Information Science and Engineering.
+- 💞️ I’m looking to collaborate on Front end and C language projects.
 - 📫 How to reach me
 -            instagram :- iammb017
 
